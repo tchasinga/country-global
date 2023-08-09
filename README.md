@@ -1,70 +1,156 @@
-# Getting Started with Create React App
+<a name="readme-top"></a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## 📗 Table of Contents
 
-In the project directory, you can run:
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+  - [Tech Stack](#tech-stack)
+  - [Key Features](#key-features)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+   - [Usage](#usage)
+- [👥 Authors](#authors)
+ - [🚀 Live Demo](#-live-demo-)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+  -- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
 
-### `npm start`
+# 📖 SPACE TRAVELERS HUB <a name="Portfolio-site"></a>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**Space Traveler's Hub** is an app for Space X that provides commercial and scientific space travel services. Built with React and Redux, The app allows users to reserve rockets and join selected space missions.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Built With <a name="built-with"></a>
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://react.dev/">React</a></li>
+    <li><a href="https://redux-toolkit.js.org/">Redux</a></li>
+    <li><a href="https://rest-country-api.p.rapidapi.com/">World country API</a></li>
+  </ul>
+</details>
 
-### `npm test`
+## Tech stack <a name="tech-stack"></a>
+This project is built with: 
+ <ul>
+    <li><a href="https://react.dev/">React</a></li>
+    <li><a href="https://redux-toolkit.js.org/">Redux</a></li>
+    <li><a href="https://rest-country-api.p.rapidapi.com/">World country API</a></li>
+  </ul>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<!-- Features -->
 
-### `npm run build`
+###  Key Features <a name="key-features"></a>
+- Display a list current currency with brief descriptions 
+- Display a list of all available food economy with their description
+- Reserve a budget for country
+- Join or leave the details of country
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<!-- GETTING STARTED -->
 
-### `npm run eject`
+## 💻 Getting Started <a name="getting-started"></a>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Running this project on your computer.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+To get a local copy up and running, follow these steps:
+- Clone this repository
+run `https://github.com/tchasinga/country-global.git`
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Follow the steps in **Setup** below
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Prerequisites
 
-## Learn More
+In order to run this project you need:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- A GitHub account
+- Node JS installed on your machine for npm
+- code editor such as VSCode or Atom
+- Web browser
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Setup
 
-### Code Splitting
+Make a new directory in your local computer. To do this:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- run `mkdir <directory-name>`
+- change the location to the directory you created 
+    run `cd <directory-name>`
+- Follow the steps in **Install** below
 
-### Analyzing the Bundle Size
+### Install
+ To Install this project, follow the steps below:
+- Clone this repository
+run `https://github.com/tchasinga/country-global.git`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- run `country-global`
 
-### Making a Progressive Web App
+- run `npm start`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+The project will open on your default browser. Interact with the project :)
 
-### Advanced Configuration
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+🚀 Live Demo
+============================
+```
+Coming Soon 
+```
 
-### Deployment
+## 👥 Authors <a name="authors"></a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+👤 **Tchasinga jacques**
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- GitHub: [@tchasinga](https://github.com/tchasinga)
+- Twitter: [@tchasingajacques](https://twitter.com/TchasingaJacque)
+- LinkedIn: [@tchasingajaques](https://www.linkedin.com/in/tchasinga-jacques-76aba7214/)
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] Mobile version of the appication styles
+- [ ] use Frame work for better UI
+- [ ] A Country security reservation functionality
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/tchasinga/country-global/issues/2).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## ⭐️ Show your support <a name="support"></a>
+
+Please leave a comment below and share this project with a friend who enjoys coding if you like it. Give it a star, too, and stick with **us** on Github for more: (
+
+> Give a star if you like this project!
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+
+- We'd like to thank microverse for providing the project requirements, and learning opportunity.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
