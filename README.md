@@ -20,10 +20,9 @@
   -- [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 SPACE TRAVELERS HUB <a name="Portfolio-site"></a>
+# 📖 COUNTRY GLOBAL <a name="Portfolio-site"></a>
 
-**Space Traveler's Hub** is an app for Space X that provides commercial and scientific space travel services. Built with React and Redux, The app allows users to reserve rockets and join selected space missions.
-
+An interactive global atlas of different geographic data is what the Global Atlas project, a Single Page App (SPA), seeks to provide. It offers a single platform for exploring, visualizing, and analyzing various geographic data from around the globe
 ## Built With <a name="built-with"></a>
 <details>
   <summary>Client</summary>
@@ -98,9 +97,7 @@ The project will open on your default browser. Interact with the project :)
 
 🚀 Live Demo
 ============================
-```
-Coming Soon 
-```
+Take a look at this [Live demo link](https://country-global.onrender.com/).
 
 ## 👥 Authors <a name="authors"></a>
 
